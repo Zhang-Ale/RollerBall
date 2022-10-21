@@ -28,7 +28,8 @@ namespace UnityStandardAssets.Vehicles.Ball
             if (m_UseTorque)
             {
                 // ... add torque around the axis defined by the move direction.
-                m_Rigidbody.AddTorque(new Vector3(moveDirection.z, 0, -moveDirection.x)*m_MovePower);
+                m_Rigidbody.AddTorque(new Vector3(-moveDirection.z, 0, moveDirection.x)*m_MovePower);
+                
             }
             else
             {

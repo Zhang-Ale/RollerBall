@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-R:/Unity prj/1st year game/EXAM-master/EXAM.exe
+R:/Unity prj/1st year game/Rolling Ball/EXAM.exe
 SceneListBegin?
 Assets/GG WP.unity
 SceneListEnd?
