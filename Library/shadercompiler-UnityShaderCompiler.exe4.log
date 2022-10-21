@@ -1,5 +1,11 @@
-Base path: W:/Maya/2018.3.14f1/Editor/Data
+Base path: I:/Downloads for Work/Unity/2018.3.14f1/Editor/Data
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(1): syntax error: unexpected token '$'
+  api=4 insize=18299 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(1): syntax error: unexpected token '$'
+  api=4 insize=3072 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ../StdLib.hlsl(1): syntax error: unexpected token '$'
+  api=4 insize=1806 outsize=0 ok=0
